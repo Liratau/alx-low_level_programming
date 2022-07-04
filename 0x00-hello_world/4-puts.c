@@ -1,8 +1,5 @@
 #include <stdio.h>
-
-/**
- ** Description: 'the program's description'
- *       */
+/* Description: 'the program's description' */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
