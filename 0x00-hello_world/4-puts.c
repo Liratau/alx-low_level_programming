@@ -1,7 +1,10 @@
 #include <stdio.h>
-/* Description: 'the program's description' */
-int main(void) /* what */
+/**
+*main- prints the size of various types
+*Return:0 if exited properly, non zero otherwise
+*/
+int main(void)
 {
-	puts(i"Programming is like building a multilingual puzzle");
-	return (0);
+puts("Programming is like building a multilingual puzzle");
+return (0);
 }
