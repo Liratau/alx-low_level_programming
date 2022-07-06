@@ -1,7 +1,3 @@
-*
-*
-* !*.c
-*
-* *-main.c
-*
-* _putchar.c
+_putchar.c
+
+*main.c
