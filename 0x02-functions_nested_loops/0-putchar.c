@@ -1,2 +1,2 @@
 _putchar.c
-*main.h
+main.h
