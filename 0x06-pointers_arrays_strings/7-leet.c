@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *
  *leet - leet
  * @s: string
  * Return: char value
@@ -26,6 +25,4 @@ char *leet(char *s)
 		a++;
 	}
 	return (s);
-
-	
 }
